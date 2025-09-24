@@ -22,7 +22,7 @@ const Dashboard = () => {
 
   // Dados mock do usuário
   const currentUser = {
-    name: "João Silva",
+    name: "Igor Costa",
     course: "Ciência da Computação",
     period: "6º Período",
     avatar: "JS",
